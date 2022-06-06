@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM jupyter/scipy-notebook
 
 #WORKDIR /home/$NB_USER/notebooks
 
