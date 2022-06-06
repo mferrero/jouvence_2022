@@ -14,5 +14,5 @@ RUN chown -R ${NB_UID} ${HOME}
 USER ${USER}
 
 # Set root to Notebooks
-WORKDIR ${HOME}
+WORKDIR ${HOME}/notebooks
 
