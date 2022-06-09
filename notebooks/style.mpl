@@ -8,6 +8,7 @@ legend.frameon : False
 
 font.family : sans-serif
 font.sans-serif : Helvetica
+font.size : 14
 font.weight         : light
 text.hinting        : auto
 text.hinting_factor : 8
